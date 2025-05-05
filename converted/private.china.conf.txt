@@ -1,3 +1,3 @@
-[/digital-nvme.com/]211.137.160.5 211.137.160.185
-[/seaya.link/]211.137.160.5 211.137.160.185
-[/sseam.top/]211.137.160.5 211.137.160.185
+[/digital-nvme.com/]https://223.5.5.5/dns-query https://doh.pub/dns-query
+[/seaya.link/]https://223.5.5.5/dns-query https://doh.pub/dns-query
+[/sseam.top/]https://223.5.5.5/dns-query https://doh.pub/dns-query
