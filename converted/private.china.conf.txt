@@ -1,3 +1,4 @@
 [/digital-nvme.com/]https://223.5.5.5/dns-query https://doh.pub/dns-query
 [/seaya.link/]https://223.5.5.5/dns-query https://doh.pub/dns-query
 [/sseam.top/]https://223.5.5.5/dns-query https://doh.pub/dns-query
+[/url.409648.xyz/]https://223.5.5.5/dns-query https://doh.pub/dns-query
